@@ -7,4 +7,4 @@ title = "about"
 
 ## A coder
 
-funny little coder
+ coder
