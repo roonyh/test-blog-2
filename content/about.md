@@ -7,4 +7,4 @@ title = "about"
 
 ## A coder
 
-He is a god damn coder
+coffie -> code
