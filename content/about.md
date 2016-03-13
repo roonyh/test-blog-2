@@ -8,4 +8,4 @@ title = "about"
 ## A coder
 
 coffie -> code
-online
+online <
